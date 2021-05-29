@@ -1,0 +1,1 @@
+Cảm biến chuyển động cho camera bằng cách so sánh với Frame ban đầu của camera

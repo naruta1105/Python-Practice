@@ -1,0 +1,9 @@
+In the next lecture I use this in the code:
+
+tiles = "Mapbox Bright"
+
+Please use this instead:
+
+tiles = "Stamen Terrain"
+
+Mapbox Bright and Stament Terrain are both types of basemaps, but Mapbox Bright doesn't work anymore. Stamen Terrain works great and you will see it creates a beautiful relief map.
